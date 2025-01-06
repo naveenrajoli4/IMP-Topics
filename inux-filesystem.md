@@ -1,6 +1,7 @@
 # Linux FileSystem Hierarchy
 
-![alt text](images/file-system.png)
+![alt text][![def](https://"C:\Users\Naveen rajoli\Downloads\file-system.png")]
+
 
 * The Linux filesystem hierarchy is organized into a tree-like structure starting at the root directory (/). 
 * Each directory serves a specific purpose, and understanding it is essential for navigating and managing Linux systems. Here's an overview of the key directories:
@@ -141,3 +142,6 @@ Used as swap space for virtual memory when RAM is full.
 ```
 
 
+
+
+[def]: images/file-system.png
